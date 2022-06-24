@@ -1,7 +1,9 @@
 <?php
 
-echo "Adios Mundo????";
 
-echo "Se ta loco?";
+echo "Adios Mundo????!!!!";
+
+echo "Se ta loco, Francisco?";
+
 
 ?>
